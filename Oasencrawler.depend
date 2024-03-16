@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1708697084 source:c:\fh technikum dev\prozd\oasencrawler\main.cpp
+	<iostream>
+
+1708788946 source:c:\dev\prozd\oasencrawler\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1708802073 source:c:\dev\prozd\oasencrawler - copy\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
+1708894477 source:c:\dev\prozd\oasencrawler1\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
